@@ -183,7 +183,8 @@ ul.menu--bar li a:hover {
     text-decoration: none;    
 }
 
-.grid--contentview .center {
+.grid--contentview .center {    
+    margin-bottom: 43px;
     text-align: center;
 }
 
@@ -316,7 +317,7 @@ ul.menu--bar li a:hover {
 
 .centrar {    
     text-align: center; 
-    margin-top: 300px;   
+    margin-top: 240px;   
 }
 
 .texto--final {
